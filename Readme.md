@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Мария Ханова](https://up.htmlacademy.ru/adaptive/19/user/1246113).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова] (https://up.htmlacademy.ru/htmlcss/27/user/85590).
 
 ---
 
